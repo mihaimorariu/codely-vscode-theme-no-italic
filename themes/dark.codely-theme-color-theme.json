@@ -435,7 +435,6 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#A89984"
 			}
 		},
@@ -477,7 +476,6 @@
 			],
 			"settings": {
 				"foreground": "#FB5245",
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -655,7 +653,6 @@
 			],
 			"settings": {
 				"foreground": "#FB5245",
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -666,7 +663,6 @@
 			],
 			"settings": {
 				"foreground": "#FB5245",
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -676,7 +672,6 @@
 			],
 			"settings": {
 				"foreground": "#A89984",
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -684,9 +679,7 @@
 			"scope": [
 				"entity.name.function.decorator.python"
 			],
-			"settings": {
-				"fontStyle": "italic"
-			}
+			"settings": {}
 		},
 		{
 			"name": "Self Parameters",
@@ -699,7 +692,6 @@
 			],
 			"settings": {
 				"foreground": "#FB5245",
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -718,7 +710,6 @@
 			],
 			"settings": {
 				"foreground": "#FB5245",
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -772,11 +763,10 @@
 			"name": "Pip dependences",
 			"scope": [
 				"source.pip-requirements",
-				"source.pip-requirements entity.name.class" 
+				"source.pip-requirements entity.name.class"
 			],
 			"settings": {
 				"foreground": "#FB5245",
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -796,7 +786,6 @@
 				"variable.language"
 			],
 			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#FB5245"
 			}
 		},
@@ -806,7 +795,6 @@
 				"entity.name.method.js"
 			],
 			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#82AAFF"
 			}
 		},
@@ -838,7 +826,6 @@
 			],
 			"settings": {
 				"foreground": "#FB5245",
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -858,7 +845,6 @@
 			],
 			"settings": {
 				"foreground": "#FB5245",
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -874,14 +860,13 @@
 			}
 		},
 		{
-			"name": "HTML Puntuation",
+			"name": "HTML Punctuation",
 			"scope": [
 				"punctuation.definition.tag.end.html",
 				"punctuation.definition.tag.begin.html"
 			],
 			"settings": {
 				"foreground": "#8EC07C",
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -891,7 +876,6 @@
 			],
 			"settings": {
 				"foreground": "#FB5245",
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -966,7 +950,6 @@
 				"tag.decorator.js punctuation.definition.tag.js"
 			],
 			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#82AAFF"
 			}
 		},
@@ -976,7 +959,6 @@
 				"source.js constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#FB5245"
 			}
 		},
@@ -988,7 +970,6 @@
 				"source.js keyword.operator.new"
 			],
 			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#FB5245"
 			}
 		},
@@ -1008,7 +989,6 @@
 				"source.css support.function",
 			],
 			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#FB5245"
 			}
 		},
@@ -1031,7 +1011,6 @@
 			],
 			"settings": {
 				"foreground": "#FB5245",
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -1041,7 +1020,6 @@
 			],
 			"settings": {
 				"foreground": "#FB5245",
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -1103,7 +1081,6 @@
 			],
 			"settings": {
 				"foreground": "#FB5245",
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -1166,9 +1143,7 @@
 			"scope": [
 				"markup.quote"
 			],
-			"settings": {
-				"fontStyle": "italic"
-			}
+			"settings": {}
 		},
 		{
 			"name": "Markdown - Link",

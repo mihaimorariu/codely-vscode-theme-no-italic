@@ -1,6 +1,6 @@
 {
-    "name": "codely-theme",
-    "displayName": "Codely Theme",
+    "name": "codely-theme-no-italic",
+    "displayName": "Codely Theme (No Italic)",
     "description": "A modern, good-looking, productivity-increaser theme for Visual Studio Code",
     "version": "0.0.1",
     "scripts": {
@@ -20,12 +20,17 @@
             "email": "royjuni3431@gmail.com",
             "name": "Royer Guerero",
             "url": "https://github.com/royerguerrero"
+        },
+        {
+            "email": "mihaimorariu@gmail.com",
+            "name": "Mihai Morariu",
+            "url": "https://github.com/mihaimorariu"
         }
     ],
     "contributes": {
         "themes": [
             {
-                "label": "Codely Dark",
+                "label": "Codely Dark (No Italic)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/dark.codely-theme-color-theme.json"
             }
@@ -33,7 +38,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/CodelyTV/vscode-theme.git"
+        "url": "https://github.com/mihaimorariu/codely-vscode-theme-no-italic.git"
     },
     "devDependencies": {
         "vsce": "^1.85.1"
